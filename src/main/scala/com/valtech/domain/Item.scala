@@ -1,7 +1,7 @@
 package com.valtech.domain
 
 /**
-  * Created by kiran on 30/06/2016.
+  * class representing one item in shopping basket
   */
-case class Item(name:String,price:Double)
+case class Item(name: String, price: Double)
 
