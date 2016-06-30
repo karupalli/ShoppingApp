@@ -1,8 +1,8 @@
-package com.valtech.service
+package com.mart.service
 
-import com.valtech.domain.Item
+import com.mart.domain.Item
 import org.specs2.Specification
-import com.valtech.service.PricingService._
+import com.mart.service.PricingService._
 
 /**
   * Created by kiran on 30/06/2016.

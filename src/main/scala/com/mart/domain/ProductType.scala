@@ -1,4 +1,4 @@
-package com.valtech.domain
+package com.mart.domain
 
 /**
   * ProductType to represent different products

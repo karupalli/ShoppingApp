@@ -1,6 +1,6 @@
-package com.valtech
+package com.mart
 
-import com.valtech.service.PricingService._
+import com.mart.service.PricingService._
 
 /**
   * Till Checkout service

@@ -1,6 +1,6 @@
-package com.valtech.service
+package com.mart.service
 
-import com.valtech.domain.Item
+import com.mart.domain.Item
 
 /**
   * Defines the various discounts that can be applied on Products

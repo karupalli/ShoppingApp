@@ -1,6 +1,6 @@
-package com.valtech.service
+package com.mart.service
 
-import com.valtech.domain.{Orange, Apple, Item}
+import com.mart.domain.{Orange, Apple, Item}
 import DiscountService._
 
 /**

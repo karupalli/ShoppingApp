@@ -1,4 +1,4 @@
-package com.valtech.domain
+package com.mart.domain
 
 /**
   * class representing one item in shopping basket
