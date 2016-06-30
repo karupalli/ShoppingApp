@@ -1,7 +1,7 @@
 package com.valtech.domain
 
 /**
-  * Created by kiran on 30/06/2016.
+  * ProductType to represent different products
   */
 sealed trait ProductType {
   def name: String
