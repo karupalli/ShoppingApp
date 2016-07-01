@@ -16,3 +16,12 @@ Step 2: Simple offers
 ○ buy one, get one free on Apples
 ○ 3 for the price of 2 on Oranges
 ● Update your checkout functions accordingly
+
+
+How to run
+
+Main class : TillCheckout
+This takes arguments from command line to read the product items and calcualte the final price
+
+Unit Test Class:
+PricingServiceSpec 
