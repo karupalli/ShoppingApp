@@ -47,8 +47,8 @@ object PricingService {
     */
   def priceDefinedItem(name: String): Option[Item] = {
     name match {
-      case Apple.name => Some(Item(name, 0.60))
-      case Orange.name => Some(Item(name, 0.25))
+      case Apple.name => Some(Item(name, Apple.price))
+      case Orange.name => Some(Item(name, Orange.price))
       case _ => None
     }
   }
