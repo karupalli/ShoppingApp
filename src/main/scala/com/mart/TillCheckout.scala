@@ -14,3 +14,5 @@ object TillCheckout {
     println(s"Price of the items is:$price")
   }
 }
+
+
